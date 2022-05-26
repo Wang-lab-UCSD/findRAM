@@ -7,4 +7,5 @@ Please go to this [Website](https://github.com/LinaZhengUCSD/findRAM.git) for do
 ### Reference
 If you use findRAM package, please cite the paper below:    
 
-Regulation associated modules reflect 3D genome modularity associated with chromatin activity. Lina Zheng, Wei Wang. doi: https://doi.org/10.1101/2022.03.02.482718. BioRxiv, 2022. 
+Regulation associated modules reflect 3D genome modularity associated with chromatin activity.     
+Lina Zheng, Wei Wang. doi: https://doi.org/10.1101/2022.03.02.482718. BioRxiv, 2022. 
